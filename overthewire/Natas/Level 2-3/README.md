@@ -3,7 +3,7 @@
 LINK : http://overthewire.org/wargames/natas/natas3.html
 
 - Again It says  
-  There is nothing on this page ![img](http://natas2.natas.labs.overthewire.org/files/pixel.png)
+  There is nothing on this page 
 
   ```html
   <!-- This stuff in the header has nothing to do with the level -->
